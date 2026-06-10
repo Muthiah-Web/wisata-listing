@@ -19,7 +19,7 @@ const WISATA_FALLBACK = [
     rating: "4.7",
     deskripsi: "Pantai Kuta adalah salah satu pantai paling terkenal di Indonesia. Terkenal dengan ombak yang cocok untuk surfing, sunset yang memukau, dan suasana yang ramai namun menyenangkan.",
     gambarEmoji: "🏖️",
-    gambar: null,
+    gambar: assets/Pantaikuta,
     sumber: "Data Statis"
   },
   {
