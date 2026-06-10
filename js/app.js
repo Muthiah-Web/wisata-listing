@@ -19,7 +19,7 @@ const WISATA_FALLBACK = [
     rating: "4.7",
     deskripsi: "Pantai Kuta adalah salah satu pantai paling terkenal di Indonesia. Terkenal dengan ombak yang cocok untuk surfing, sunset yang memukau, dan suasana yang ramai namun menyenangkan.",
     gambarEmoji: "🏖️",
-    gambar: assets/Pantaikuta,
+    gambar: "assets/Pantaikuta.jpg",
     sumber: "Data Statis"
   },
   {
@@ -31,7 +31,7 @@ const WISATA_FALLBACK = [
     rating: "4.9",
     deskripsi: "Borobudur adalah candi Buddha terbesar di dunia dan merupakan Situs Warisan Dunia UNESCO. Dibangun pada abad ke-8, candi ini memiliki 2.672 panel relief dan 504 arca Buddha.",
     gambarEmoji: "🏛️",
-    gambar: null,
+    gambar: "assets/Candiborobudur.jpeg",
     sumber: "Data Statis"
   },
   {
@@ -43,7 +43,7 @@ const WISATA_FALLBACK = [
     rating: "5.0",
     deskripsi: "Raja Ampat adalah kepulauan dengan keanekaragaman hayati laut tertinggi di dunia. Surga bagi para penyelam dengan terumbu karang yang indah, laguna biru, dan satwa laut yang langka.",
     gambarEmoji: "🌊",
-    gambar: null,
+    gambar: "assets/Rajaampat.jpg",
     sumber: "Data Statis"
   },
   {
@@ -55,7 +55,7 @@ const WISATA_FALLBACK = [
     rating: "4.8",
     deskripsi: "Gunung Bromo adalah gunung berapi aktif yang ikonik dengan pemandangan matahari terbit yang menakjubkan di atas lautan pasir yang luas. Destinasi favorit para pecinta alam dan fotografer.",
     gambarEmoji: "🌋",
-    gambar: null,
+    gambar: "assets/Gunungbromo.jpg",
     sumber: "Data Statis"
   },
   {
@@ -67,7 +67,7 @@ const WISATA_FALLBACK = [
     rating: "4.3",
     deskripsi: "TMII adalah taman hiburan bertema budaya Indonesia yang menampilkan miniatur kepulauan Indonesia beserta anjungan dari 34 provinsi, museum, dan berbagai wahana hiburan keluarga.",
     gambarEmoji: "🏙️",
-    gambar: null,
+    gambar: "assets/Tamanminiindonesia.jpg",
     sumber: "Data Statis"
   },
   {
@@ -79,7 +79,7 @@ const WISATA_FALLBACK = [
     rating: "4.6",
     deskripsi: "Danau Toba adalah danau vulkanik terbesar di dunia dengan Pulau Samosir di tengahnya. Kawasan ini kaya akan budaya Batak dan menawarkan pemandangan danau yang mempesona.",
     gambarEmoji: "🏞️",
-    gambar: null,
+    gambar: "assets/Danautoba.jpg",
     sumber: "Data Statis"
   },
   {
@@ -91,7 +91,7 @@ const WISATA_FALLBACK = [
     rating: "4.5",
     deskripsi: "Keraton Yogyakarta atau Kraton Ngayogyakarta Hadiningrat adalah istana resmi Kesultanan Yogyakarta. Pengunjung dapat menyaksikan pertunjukan seni budaya Jawa dan koleksi benda bersejarah.",
     gambarEmoji: "🏯",
-    gambar: null,
+    gambar: "assets/Kratonyogyakarta.jpg",
     sumber: "Data Statis"
   },
   {
@@ -103,7 +103,7 @@ const WISATA_FALLBACK = [
     rating: "4.8",
     deskripsi: "Pantai Pink adalah salah satu dari sedikit pantai berpasir merah muda di dunia. Warna uniknya berasal dari campuran karang merah Foraminifera. Air lautnya jernih dan sangat cocok untuk snorkeling.",
     gambarEmoji: "🌸",
-    gambar: null,
+    gambar: "assets/Pantaipink.jpg",
     sumber: "Data Statis"
   },
 ];
